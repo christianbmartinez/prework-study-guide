@@ -15,7 +15,7 @@ This is my first project for University of Utahs Coding Bootcamp!
 
 ## Usage
 
-- In index.html, edit the elements nested in the <ul> tags (<li>) and add or delete your own notes as list items.
+- In index.html, edit the li elements nests in the ul tags and add or delete your own notes.
 - In style.css, edit the styles of the page with CSS to your own desire.
 - In script.js, edit the functions and view the result in the console.
 
